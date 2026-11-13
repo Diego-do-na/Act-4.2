@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhull.a CMakeFiles/hull.dir/hull.cpp.o
+/usr/bin/ranlib libhull.a
